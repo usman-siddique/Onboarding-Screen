@@ -1,2 +1,3 @@
-# Onboarding-Screen
- A Flutter-based mobile app Onboarding Screen with smooth animations and navigation.
+# onboarding_screen
+
+A new Flutter project.
